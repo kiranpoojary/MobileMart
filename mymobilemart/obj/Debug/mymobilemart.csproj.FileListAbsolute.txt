@@ -1,0 +1,30 @@
+C:\Users\KIRAN\documents\visual studio 2010\Projects\mymobilemart\mymobilemart\bin\mymobilemart.dll
+C:\Users\KIRAN\documents\visual studio 2010\Projects\mymobilemart\mymobilemart\bin\mymobilemart.pdb
+C:\Users\KIRAN\documents\visual studio 2010\Projects\mymobilemart\mymobilemart\obj\Debug\mymobilemart.dll
+C:\Users\KIRAN\documents\visual studio 2010\Projects\mymobilemart\mymobilemart\obj\Debug\mymobilemart.pdb
+C:\Users\KIRAN\documents\visual studio 2010\Projects\mymobilemart\mymobilemart\obj\Debug\mymobilemart.csprojResolveAssemblyReference.cache
+F:\ \mymobilemart\mymobilemart\bin\mymobilemart.dll
+F:\ \mymobilemart\mymobilemart\bin\mymobilemart.pdb
+F:\ \mymobilemart\mymobilemart\obj\Debug\mymobilemart.csprojResolveAssemblyReference.cache
+F:\ \mymobilemart\mymobilemart\obj\Debug\mymobilemart.dll
+F:\ \mymobilemart\mymobilemart\obj\Debug\mymobilemart.pdb
+F:\mymobilemart\mymobilemart\bin\mymobilemart.dll
+F:\mymobilemart\mymobilemart\bin\mymobilemart.pdb
+F:\mymobilemart\mymobilemart\obj\Debug\mymobilemart.csprojResolveAssemblyReference.cache
+F:\mymobilemart\mymobilemart\obj\Debug\mymobilemart.dll
+F:\mymobilemart\mymobilemart\obj\Debug\mymobilemart.pdb
+G:\backup\mymobilemart\mymobilemart\bin\mymobilemart.dll
+G:\backup\mymobilemart\mymobilemart\bin\mymobilemart.pdb
+G:\backup\mymobilemart\mymobilemart\obj\Debug\mymobilemart.csprojResolveAssemblyReference.cache
+G:\backup\mymobilemart\mymobilemart\obj\Debug\mymobilemart.dll
+G:\backup\mymobilemart\mymobilemart\obj\Debug\mymobilemart.pdb
+C:\Users\KIRAN\Desktop\mymobilemart\mymobilemart\bin\mymobilemart.dll
+C:\Users\KIRAN\Desktop\mymobilemart\mymobilemart\bin\mymobilemart.pdb
+C:\Users\KIRAN\Desktop\mymobilemart\mymobilemart\obj\Debug\mymobilemart.csprojResolveAssemblyReference.cache
+C:\Users\KIRAN\Desktop\mymobilemart\mymobilemart\obj\Debug\mymobilemart.dll
+C:\Users\KIRAN\Desktop\mymobilemart\mymobilemart\obj\Debug\mymobilemart.pdb
+C:\Users\KIRAN\Desktop\New folder\mymobilemart\mymobilemart\bin\mymobilemart.dll
+C:\Users\KIRAN\Desktop\New folder\mymobilemart\mymobilemart\bin\mymobilemart.pdb
+C:\Users\KIRAN\Desktop\New folder\mymobilemart\mymobilemart\obj\Debug\mymobilemart.csprojResolveAssemblyReference.cache
+C:\Users\KIRAN\Desktop\New folder\mymobilemart\mymobilemart\obj\Debug\mymobilemart.dll
+C:\Users\KIRAN\Desktop\New folder\mymobilemart\mymobilemart\obj\Debug\mymobilemart.pdb

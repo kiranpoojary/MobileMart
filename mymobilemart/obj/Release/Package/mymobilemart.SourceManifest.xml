@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <contentPath path="C:\Users\KIRAN\Documents\Visual Studio 2010\Projects\mymobilemart\mymobilemart\obj\Release\Package\PackageTmp" />
+  <setAcl path="C:\Users\KIRAN\Documents\Visual Studio 2010\Projects\mymobilemart\mymobilemart\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="C:\Users\KIRAN\Documents\Visual Studio 2010\Projects\mymobilemart\mymobilemart\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+  <dbFullSql path="C:\Users\KIRAN\Documents\Visual Studio 2010\Projects\mymobilemart\mymobilemart\obj\Release\AutoScripts\ConnectionString-Deployment_SchemaAndData.sql" Transacted="True" />
+  <dbFullSql path="C:\Users\KIRAN\Documents\Visual Studio 2010\Projects\mymobilemart\mymobilemart\obj\Release\AutoScripts\ConnectionString2-Deployment_SchemaOnly.sql" Transacted="True" />
+</sitemanifest>

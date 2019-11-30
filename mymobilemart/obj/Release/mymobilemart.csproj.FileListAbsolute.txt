@@ -1,0 +1,11 @@
+C:\Users\KIRAN\Documents\Visual Studio 2010\Projects\mymobilemart\mymobilemart\bin\mymobilemart.dll
+C:\Users\KIRAN\Documents\Visual Studio 2010\Projects\mymobilemart\mymobilemart\bin\mymobilemart.pdb
+C:\Users\KIRAN\Documents\Visual Studio 2010\Projects\mymobilemart\mymobilemart\obj\Release\mymobilemart.dll
+C:\Users\KIRAN\Documents\Visual Studio 2010\Projects\mymobilemart\mymobilemart\obj\Release\mymobilemart.pdb
+C:\Users\KIRAN\Documents\Visual Studio 2010\Projects\mymobilemart\mymobilemart\bin\mscorlib.dll
+C:\Users\KIRAN\Documents\Visual Studio 2010\Projects\mymobilemart\mymobilemart\bin\normidna.nlp
+C:\Users\KIRAN\Documents\Visual Studio 2010\Projects\mymobilemart\mymobilemart\bin\normnfc.nlp
+C:\Users\KIRAN\Documents\Visual Studio 2010\Projects\mymobilemart\mymobilemart\bin\normnfd.nlp
+C:\Users\KIRAN\Documents\Visual Studio 2010\Projects\mymobilemart\mymobilemart\bin\normnfkc.nlp
+C:\Users\KIRAN\Documents\Visual Studio 2010\Projects\mymobilemart\mymobilemart\bin\normnfkd.nlp
+C:\Users\KIRAN\Documents\Visual Studio 2010\Projects\mymobilemart\mymobilemart\obj\Release\mymobilemart.csprojResolveAssemblyReference.cache
