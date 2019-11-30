@@ -169,7 +169,7 @@
                         data-slide="next"><span class="carousel-control-next-icon" aria-hidden="true"></span>
                         <span class="sr-only">Next</span> </a>
         </div>
-        <!-- Carousel Slider -->
+        <!-- Carousel Sliders -->
         <!-- Card -->
         <div class="container container mt-4 mb-5">
             <h3 class="display-4 text-center">
